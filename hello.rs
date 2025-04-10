@@ -6,6 +6,7 @@ fn main() {
   println!("{}", sum);
 
   y = 7;
+  sum = x + y;
 
   println!("{}", sum);
 }
